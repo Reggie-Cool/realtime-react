@@ -2,4 +2,4 @@
 
 - [x] Add express
 - [x] Add create-react-app
-- [] Work on front end design
+- [ ] Work on front end design
